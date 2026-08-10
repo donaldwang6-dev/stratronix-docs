@@ -15,11 +15,13 @@
 |---|---|---|---|
 | [STA-100-User-Manual-Chinese-v2.0.pdf](./STA-100-User-Manual-Chinese-v2.0.pdf) | 🇨🇳 中文 | 完整使用说明书（14 章节） | 2.5 MB |
 | [STA-100-User-Manual-English-v2.0.pdf](./STA-100-User-Manual-English-v2.0.pdf) | 🇺🇸 英文 | Complete User Manual (14 chapters) | 2.7 MB |
+| [STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf](./STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf) | 🇺🇸 英文 | OpenClaw Training, Learning & Self-Evolution Guidance (33 pages) | 290 KB |
 
 ### 🔗 直链
 
 - **中文**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-Chinese-v2.0.pdf
 - **English**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-English-v2.0.pdf
+- **OpenClaw Training (EN)**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf
 - **GitHub Pages 主页**: https://donaldwang6-dev.github.io/stratronix-docs/
 
 ### 🏢 公司信息
@@ -41,11 +43,13 @@
 |---|---|---|---|
 | [STA-100-User-Manual-Chinese-v2.0.pdf](./STA-100-User-Manual-Chinese-v2.0.pdf) | 🇨🇳 CN | Complete user manual (14 chapters) | 2.5 MB |
 | [STA-100-User-Manual-English-v2.0.pdf](./STA-100-User-Manual-English-v2.0.pdf) | 🇺🇸 EN | Complete user manual (14 chapters) | 2.7 MB |
+| [STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf](./STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf) | 🇺🇸 EN | OpenClaw Training, Learning & Self-Evolution Guidance (33 pages) | 290 KB |
 
 ### 🔗 Direct Links
 
 - **Chinese**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-Chinese-v2.0.pdf
 - **English**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-English-v2.0.pdf
+- **OpenClaw Training (EN)**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf
 - **GitHub Pages**: https://donaldwang6-dev.github.io/stratronix-docs/
 
 ### 🏢 Company
@@ -67,7 +71,7 @@
 
 ## 📌 版本
 
-- **当前版本**: v2.0
+- **当前版本**: v2.0 + OpenClaw Training v1.0
 - **更新时间**: 2026-08-10
 - **维护方**: STRATRONIX 鼎图太易
 - **License**: © 2026 STRATRONIX. All rights reserved.

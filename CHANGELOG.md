@@ -2,6 +2,21 @@
 
 All notable changes to this repository are documented here.
 
+## [3.0.0] — 2026-08-10 16:02 (汪总 15:51 指示上传 OpenClaw Training)
+
+### Added
+- ✅ 汪总亲发 PDF：`STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf` (297,301 bytes, 33 pages)
+- 📜 内容：Guidance document on the continuous training, learning, and self-evolution mechanism of OpenClaw V1.0
+- 📅 原始创建日期：2026-06-30（汪总亲发）
+- 🔗 直链：https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf
+- 🔗 GitHub Pages：https://donaldwang6-dev.github.io/stratronix-docs/STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf
+
+### Notes
+- 按铁律 52.4 流程：原 PDF 规范化命名 → 上传 docs 仓库 → 同步 README/CHANGELOG → 生成 QR 码 → 同步附属站
+- 铁律 52 LOCKED 永久有效：汪总亲发 PDF = 唯一权威源
+
+---
+
 ## [2.0.0] — 2026-08-10 15:40 (汪总 15:40 LOCKED 重新发布)
 
 ### Restored
@@ -38,4 +53,5 @@ STA-100-{类型}-{语言}-{版本}.pdf
 LOCKED 命名:
   STA-100-User-Manual-Chinese-v2.0.pdf
   STA-100-User-Manual-English-v2.0.pdf
+  STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf
 ```
