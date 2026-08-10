@@ -13,13 +13,13 @@
 
 | 文件 | 语言 | 用途 | 尺寸 |
 |---|---|---|---|
-| [STA-100-Quick-Start-Guide-Chinese-v1.0.pdf](./STA-100-Quick-Start-Guide-Chinese-v1.0.pdf) | 🇨🇳 中文 | 印刷版说明书（85×80mm） | 1.1 MB |
-| [STA-100-PAA-Product-Introduction-English-v1.pdf](./STA-100-PAA-Product-Introduction-English-v1.pdf) | 🇺🇸 英文 | 产品介绍 + A4 规格图 | 1.2 MB |
+| [STA-100-User-Manual-Chinese-v2.0.pdf](./STA-100-User-Manual-Chinese-v2.0.pdf) | 🇨🇳 中文 | 完整使用说明书（14 章节） | 2.5 MB |
+| [STA-100-User-Manual-English-v2.0.pdf](./STA-100-User-Manual-English-v2.0.pdf) | 🇺🇸 英文 | Complete User Manual (14 chapters) | 2.7 MB |
 
 ### 🔗 直链
 
-- **中文说明书**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-Quick-Start-Guide-Chinese-v1.0.pdf
-- **English Manual**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-PAA-Product-Introduction-English-v1.pdf
+- **中文**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-Chinese-v2.0.pdf
+- **English**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-English-v2.0.pdf
 - **GitHub Pages 主页**: https://donaldwang6-dev.github.io/stratronix-docs/
 
 ### 🏢 公司信息
@@ -39,13 +39,13 @@
 
 | File | Lang | Description | Size |
 |---|---|---|---|
-| [STA-100-Quick-Start-Guide-Chinese-v1.0.pdf](./STA-100-Quick-Start-Guide-Chinese-v1.0.pdf) | 🇨🇳 CN | Print manual (85×80mm) | 1.1 MB |
-| [STA-100-PAA-Product-Introduction-English-v1.pdf](./STA-100-PAA-Product-Introduction-English-v1.pdf) | 🇺🇸 EN | Product intro + A4 specs | 1.2 MB |
+| [STA-100-User-Manual-Chinese-v2.0.pdf](./STA-100-User-Manual-Chinese-v2.0.pdf) | 🇨🇳 CN | Complete user manual (14 chapters) | 2.5 MB |
+| [STA-100-User-Manual-English-v2.0.pdf](./STA-100-User-Manual-English-v2.0.pdf) | 🇺🇸 EN | Complete user manual (14 chapters) | 2.7 MB |
 
 ### 🔗 Direct Links
 
-- **Chinese Manual**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-Quick-Start-Guide-Chinese-v1.0.pdf
-- **English Manual**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-PAA-Product-Introduction-English-v1.pdf
+- **Chinese**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-Chinese-v2.0.pdf
+- **English**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-English-v2.0.pdf
 - **GitHub Pages**: https://donaldwang6-dev.github.io/stratronix-docs/
 
 ### 🏢 Company
@@ -67,7 +67,7 @@
 
 ## 📌 版本
 
-- **当前版本**: v1.0
+- **当前版本**: v2.0
 - **更新时间**: 2026-08-10
 - **维护方**: STRATRONIX 鼎图太易
 - **License**: © 2026 STRATRONIX. All rights reserved.
