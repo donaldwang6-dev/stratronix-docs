@@ -1,7 +1,7 @@
 # STRATRONIX 产品资料库
 
-> **官方说明书 PDF · 公开下载 · GitHub 托管**
-> **STRATRONIX STA-100 PAA — Manuals & Documents**
+> **当前状态：等待汪总亲发新版说明书**
+> 2026-08-10 15:30 · 汪总指示「你的中英文说明书全部是错的」后，JERRY 已清空所有 PDF
 
 ---
 
@@ -11,16 +11,11 @@
 
 ### 📦 文件清单
 
-| 文件 | 语言 | 用途 | 尺寸 |
-|---|---|---|---|
-| [STA-100-User-Manual-Chinese-v2.0.pdf](./STA-100-User-Manual-Chinese-v2.0.pdf) | 🇨🇳 中文 | 完整使用说明书（14 章节） | 2.5 MB |
-| [STA-100-User-Manual-English-v2.0.pdf](./STA-100-User-Manual-English-v2.0.pdf) | 🇺🇸 英文 | Complete User Manual (14 chapters) | 2.7 MB |
+**（空）** — 等待汪总亲发新版说明书
 
 ### 🔗 直链
 
-- **中文**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-Chinese-v2.0.pdf
-- **English**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-English-v2.0.pdf
-- **GitHub Pages 主页**: https://donaldwang6-dev.github.io/stratronix-docs/
+（暂无）
 
 ### 🏢 公司信息
 
@@ -37,16 +32,11 @@
 
 ### 📦 Files
 
-| File | Lang | Description | Size |
-|---|---|---|---|
-| [STA-100-User-Manual-Chinese-v2.0.pdf](./STA-100-User-Manual-Chinese-v2.0.pdf) | 🇨🇳 CN | Complete user manual (14 chapters) | 2.5 MB |
-| [STA-100-User-Manual-English-v2.0.pdf](./STA-100-User-Manual-English-v2.0.pdf) | 🇺🇸 EN | Complete user manual (14 chapters) | 2.7 MB |
+**(Empty)** — Awaiting new manual release from Donald.
 
 ### 🔗 Direct Links
 
-- **Chinese**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-Chinese-v2.0.pdf
-- **English**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-English-v2.0.pdf
-- **GitHub Pages**: https://donaldwang6-dev.github.io/stratronix-docs/
+(none)
 
 ### 🏢 Company
 
@@ -65,9 +55,18 @@
 
 ---
 
-## 📌 版本
+## 📌 历史（已删除 · 仅作记录）
 
-- **当前版本**: v2.0
-- **更新时间**: 2026-08-10
-- **维护方**: STRATRONIX 鼎图太易
-- **License**: © 2026 STRATRONIX. All rights reserved.
+| 文件 | 状态 | 备注 |
+|---|---|---|
+| `STA-100-User-Manual-Chinese-v2.0.pdf` | ❌ 已删除 | 汪总 8/10 15:24 亲发，但 8/10 15:30 被指示「全部是错的」 |
+| `STA-100-User-Manual-English-v2.0.pdf` | ❌ 已删除 | 汪总 8/10 15:19 亲发，但 8/10 15:30 被指示「全部是错的」 |
+
+> 原 PDF 已永久归档：`~/文档/project/STRATRONIX/产品规划/原始PDF/`
+
+---
+
+**当前版本**: v0 (空)
+**更新时间**: 2026-08-10
+**维护方**: STRATRONIX 鼎图太易
+**License**: © 2026 STRATRONIX. All rights reserved.
