@@ -16,12 +16,15 @@
 | [STA-100-User-Manual-Chinese-v2.0.pdf](./STA-100-User-Manual-Chinese-v2.0.pdf) | 🇨🇳 中文 | 完整使用说明书（14 章节） | 2.5 MB |
 | [STA-100-User-Manual-English-v2.0.pdf](./STA-100-User-Manual-English-v2.0.pdf) | 🇺🇸 英文 | Complete User Manual (14 chapters) | 2.7 MB |
 | [STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf](./STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf) | 🇺🇸 英文 | OpenClaw Training, Learning & Self-Evolution Guidance (33 pages) | 290 KB |
+| [STA-100-OpenClaw-Training-Guidance-Chinese-v1.0.pdf](./STA-100-OpenClaw-Training-Guidance-Chinese-v1.0.pdf) | 🇨🇳 中文 | OpenClaw 持续训练学习与自我进化机制指导文件 (18 页) | 651 KB |
 
 ### 🔗 直链
 
 - **中文**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-Chinese-v2.0.pdf
 - **English**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-User-Manual-English-v2.0.pdf
 - **OpenClaw Training (EN)**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf
+- **OpenClaw Training (CN)**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-OpenClaw-Training-Guidance-Chinese-v1.0.pdf
+- **OpenClaw Training (CN)**: https://github.com/donaldwang6-dev/stratronix-docs/raw/main/STA-100-OpenClaw-Training-Guidance-Chinese-v1.0.pdf
 - **GitHub Pages 主页**: https://donaldwang6-dev.github.io/stratronix-docs/
 
 ### 🏢 公司信息
@@ -44,6 +47,7 @@
 | [STA-100-User-Manual-Chinese-v2.0.pdf](./STA-100-User-Manual-Chinese-v2.0.pdf) | 🇨🇳 CN | Complete user manual (14 chapters) | 2.5 MB |
 | [STA-100-User-Manual-English-v2.0.pdf](./STA-100-User-Manual-English-v2.0.pdf) | 🇺🇸 EN | Complete user manual (14 chapters) | 2.7 MB |
 | [STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf](./STA-100-OpenClaw-Training-Guidance-English-v1.0.pdf) | 🇺🇸 EN | OpenClaw Training, Learning & Self-Evolution Guidance (33 pages) | 290 KB |
+| [STA-100-OpenClaw-Training-Guidance-Chinese-v1.0.pdf](./STA-100-OpenClaw-Training-Guidance-Chinese-v1.0.pdf) | 🇨🇳 CN | OpenClaw 持续训练学习与自我进化机制指导文件 (18 pages) | 651 KB |
 
 ### 🔗 Direct Links
 
